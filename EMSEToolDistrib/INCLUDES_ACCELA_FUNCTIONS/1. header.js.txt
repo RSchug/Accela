@@ -1,0 +1,12 @@
+/*------------------------------------------------------------------------------------------------------/
+| Program : INCLUDES_ACCELA_FUNCTIONS.js
+| Event   : N/A
+|
+| Usage   : Accela Inc. Developed Master Script Functions.  This file should not be modified.  For custom
+			includes make additions and overrides to the INCLUDES_CUSTOM script file.
+|
+| Notes   : For Application Submit Before see INCLUDES_ACCELA_FUNCTIONS_ASB
+|
+/------------------------------------------------------------------------------------------------------*/
+
+var INCLUDE_VERSION = "3.1.28";
